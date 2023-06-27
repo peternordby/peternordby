@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Peter</h1>
 <h3 align="center">A computer science student at NTNU</h3>
 
-- 🌏 Currently studying Artifcial Inteliggence at the University of Science and Technology in Trondheim
+- 🌏 Currently studying Artifcial Intelligence at the University of Science and Technology in Trondheim
 - 📫 How to reach me **peter-sn@hotmail.no**
 
 <h3 align="left">Connect with me:</h3>
