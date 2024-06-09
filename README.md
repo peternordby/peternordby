@@ -1,6 +1,6 @@
 <h1>Hi, I'm Peter</h1>
 
-- 👨🏼‍🎓 5th year computer science student at NTNU
+- 👨🏼‍🎓 Computer Science Graduate from NTNU
 - 🤖 Machine Learning and Deep Learning
 - 🕸 Web Development
 - 🔧 Python, TypeScript, Java, C
