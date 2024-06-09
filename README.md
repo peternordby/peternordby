@@ -6,8 +6,12 @@ I'm a ...
 I know ...
 - 🤖 Machine Learning and Deep Learning
 - 🕸 Web Development
-- 🔧 Python, TypeScript, Java, C
-- 🌐 React, React Native, Vue
+- 🔢 Data Science
+
+I use ...
+- 🧠 PyTorch, TensorFlow
+- 🔧 Python, JavaScript, TypeScript, Java, C
+- 🌐 React, React Native, Vue, HTML, CSS
 - 💾 Node.js, REST, GraphQL, MongoDB, SQL
 - ☁ Docker, Vercel, GitHub Pages, Google Cloud
 
