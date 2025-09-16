@@ -1,7 +1,7 @@
 <h1>Hi, I'm Peter :)</h1>
 
 I'm a ...
-- 🧑🏽‍💻 Junior Data Engineer at NoA Ignite 
+- 🧑🏽‍💻 Data Engineer at NoA Ignite 
 - 👨🏼‍🎓 Computer Science Graduate from NTNU
 
 I know ...
